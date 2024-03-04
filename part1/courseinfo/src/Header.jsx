@@ -1,5 +1,4 @@
-
-
+/* eslint-disable react/prop-types */
 const Header = (props) => {
     const course = props.course
     return (
